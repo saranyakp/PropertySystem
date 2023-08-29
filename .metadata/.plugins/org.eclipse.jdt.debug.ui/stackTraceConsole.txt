@@ -1,0 +1,2 @@
+Statement stmt = con.createStatement();
+			ResultSet rs = stmt.executeQuery("SELECT * FROM PropInfo");
